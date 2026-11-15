@@ -1,5 +1,12 @@
 # Portfólio Pessoal - Desenvolvimento de Sistemas
 
+**Aluno(a):** Seu Nome Completo  
+**Curso:** Técnico em Desenvolvimento de Sistemas - ETEC  
+
+## Link do Site Publicado
+Acesse o portfólio online através do GitHub Pages:  
+🔗 [https://ayumiim.github.io/portfolio/](https://ayumiim.github.io/portfolio/)
+
 ## Sobre o Projeto
 Este projeto consiste em um portfólio pessoal responsivo desenvolvido como atividade prática da Agenda 15. O objetivo do site é apresentar meu perfil profissional, formação acadêmica, tecnologias que domino, projetos desenvolvidos ao longo do curso e canais diretos para contato.
 
