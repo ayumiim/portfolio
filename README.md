@@ -1,6 +1,6 @@
 # Portfólio Pessoal - Desenvolvimento de Sistemas
 
-**Aluno(a):** Seu Nome Completo  
+**Aluno(a):** Gabriela Ayumi Vespa Imamura  
 **Curso:** Técnico em Desenvolvimento de Sistemas - ETEC  
 
 ## Link do Site Publicado
